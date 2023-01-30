@@ -1,6 +1,6 @@
 <img src=".github/logo.png" alt="Foundry logo" align="right" width="120" />
 
-## Foundry
+## Foundry.
 
 ![Github Actions][gha-badge] [![Telegram Chat][tg-badge]][tg-url] [![Telegram Support][tg-support-badge]][tg-support-url]
 
